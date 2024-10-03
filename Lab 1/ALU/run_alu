@@ -1,0 +1,11 @@
+vsim -gui work.alu_tb
+add wave -position end  sim:/alu_tb/S3
+add wave -position end  sim:/alu_tb/S2
+add wave -position end  sim:/alu_tb/S1
+add wave -position end  sim:/alu_tb/S0
+add wave -position end  sim:/alu_tb/Cin
+add wave -position end  sim:/alu_tb/A
+add wave -position end  sim:/alu_tb/B
+add wave -position end  sim:/alu_tb/F
+add wave -position end  sim:/alu_tb/Cout
+run 140ns

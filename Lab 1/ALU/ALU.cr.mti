@@ -1,0 +1,74 @@
+C:/Users/midoa/Code/ARC/ALU/part_d.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/part_d.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_d
+-- Compiling architecture part_d_arch of part_d
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/part_c_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/part_c_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_c_tb
+-- Compiling architecture testbench of part_c_tb
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/alu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/alu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package parts_pkg
+-- Compiling entity alu
+-- Compiling architecture alu_arch of alu
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/part_d_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/part_d_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_d_tb
+-- Compiling architecture testbench of part_d_tb
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/parts_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/parts_pkg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package parts_pkg
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/alu_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/alu_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package parts_pkg
+-- Compiling entity alu_tb
+-- Compiling architecture alu_tb_arch of alu_tb
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/part_b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/part_b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_b
+-- Compiling architecture part_b_arch of part_b
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/part_b_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/part_b_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_b_tb
+-- Compiling architecture testbench of part_b_tb
+
+} {} {}} C:/Users/midoa/Code/ARC/ALU/part_c.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/midoa/Code/ARC/ALU/part_c.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_c
+-- Compiling architecture part_c_arch of part_c
+
+} {} {}}

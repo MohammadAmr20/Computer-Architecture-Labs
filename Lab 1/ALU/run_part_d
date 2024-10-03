@@ -1,0 +1,8 @@
+vsim -gui work.part_d_tb
+add wave -position end  sim:/part_d_tb/S1
+add wave -position end  sim:/part_d_tb/S0
+add wave -position end  sim:/part_d_tb/CinD
+add wave -position end  sim:/part_d_tb/A
+add wave -position end  sim:/part_d_tb/CoutD
+add wave -position end  sim:/part_d_tb/FD
+run 50ns
