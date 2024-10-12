@@ -1,0 +1,7 @@
+vsim -gui work.full_adder_tb
+add wave -position end  sim:/full_adder_tb/a
+add wave -position end  sim:/full_adder_tb/b
+add wave -position end  sim:/full_adder_tb/cin
+add wave -position end  sim:/full_adder_tb/sum
+add wave -position end  sim:/full_adder_tb/cout
+run 80ns

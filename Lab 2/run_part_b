@@ -1,0 +1,11 @@
+vsim -gui work.part_b_tb
+add wave -position end  sim:/part_b_tb/S1
+add wave -position end  sim:/part_b_tb/S0
+add wave -position end  sim:/part_b_tb/A
+add wave -position end  sim:/part_b_tb/B
+add wave -position end  sim:/part_b_tb/CoutB
+add wave -position end  sim:/part_b_tb/FB
+radix signal a  -hexadecimal
+radix signal b  -hexadecimal
+radix signal FB  -hexadecimal
+run 40ns

@@ -1,0 +1,10 @@
+vsim -gui work.n_bit_adder_tb
+add wave -position end  sim:/n_bit_adder_tb/a
+add wave -position end  sim:/n_bit_adder_tb/b
+add wave -position end  sim:/n_bit_adder_tb/cin
+add wave -position end  sim:/n_bit_adder_tb/sum
+add wave -position end  sim:/n_bit_adder_tb/cout
+radix signal a  -hexadecimal
+radix signal b  -hexadecimal
+radix signal sum  -hexadecimal
+run 40ns

@@ -1,0 +1,737 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+Ealu
+Z0 w1728505311
+Z1 DPx4 work 9 parts_pkg 0 22 DAa[XI6`ZYk==K_:KA75E3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2
+Z5 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu.vhd
+Z6 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu.vhd
+l0
+L5
+VdkDj40APY5Ua7F2nPM0gU3
+!s100 __]Jk;7?P50LI=c`P99ZV3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1728505437
+!i10b 1
+Z9 !s108 1728505437.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu.vhd|
+Z11 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aalu_arch
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 dkDj40APY5Ua7F2nPM0gU3
+l21
+L17
+VgmWGDzGC_?1SibAA05^?b0
+!s100 >hFhJAfW:W7>j2[O8SOgF1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu_tb
+Z14 w1728505431
+R1
+R2
+R3
+R4
+Z15 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu_tb.vhd
+Z16 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu_tb.vhd
+l0
+L5
+V>AaRB1jMbh;kAG=jLCaZf1
+!s100 H1TRH6LRH8d=F8Wn`8NRb2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu_tb.vhd|
+Z18 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/alu_tb.vhd|
+!i113 1
+R12
+R13
+Aalu_tb_arch
+R1
+R2
+R3
+DEx4 work 6 alu_tb 0 22 >AaRB1jMbh;kAG=jLCaZf1
+l23
+L8
+VT]Fh>G7V:VTaGaLnToLV71
+!s100 SGn4ICdHTa`bAMWTL;J>j0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Efull_adder
+Z19 w1728403768
+R2
+R3
+R4
+Z20 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder.vhd
+Z21 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder.vhd
+l0
+L4
+VMFZ1BN_<U0<EC;3MD8HjR3
+!s100 H=A=6P_VdG]<:6MzPz@:j3
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder.vhd|
+Z23 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder.vhd|
+!i113 1
+R12
+R13
+Afull_adder_arch
+R2
+R3
+DEx4 work 10 full_adder 0 22 MFZ1BN_<U0<EC;3MD8HjR3
+l19
+L11
+VB?6AIkSZXz]m[EU6ASXFH3
+!s100 kbZEmI1m7G`gC=Mm4`=eh2
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Efull_adder_tb
+Z24 w1728403889
+R2
+R3
+R4
+Z25 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder_tb.vhd
+Z26 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder_tb.vhd
+l0
+L4
+V]VHPGU4WlRBWHV4P=<YWA0
+!s100 HRS5?D3bXR^Mg?>0OnR[32
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder_tb.vhd|
+Z28 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/full_adder_tb.vhd|
+!i113 1
+R12
+R13
+Afull_adder_tb_arch
+R2
+R3
+DEx4 work 13 full_adder_tb 0 22 ]VHPGU4WlRBWHV4P=<YWA0
+l16
+L7
+VMBg:f=iUR@7iBWO3BI7^G3
+!s100 7Z:3OV^4RDca^mULF:k_j0
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Ehalf_adder
+Z29 w1728403085
+R2
+R3
+R4
+Z30 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder.vhd
+Z31 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder.vhd
+l0
+L4
+V4Kb3:1IdElGfb@dH8ac6i1
+!s100 N@A6dGbC`K5hKVMASC]cT0
+R7
+32
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder.vhd|
+Z33 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder.vhd|
+!i113 1
+R12
+R13
+Ahalf_adder_arch
+R2
+R3
+DEx4 work 10 half_adder 0 22 4Kb3:1IdElGfb@dH8ac6i1
+l12
+L11
+VfMYeT1HS=f9^QJ^X2=NoC0
+!s100 Od_Z6Mi8ND7neJmbPaX;I2
+R7
+32
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
+Ehalf_adder_tb
+Z34 w1728403320
+R2
+R3
+R4
+Z35 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder_tb.vhd
+Z36 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder_tb.vhd
+l0
+L4
+VF`Q3EiS?84R1R2^8Zl>>J1
+!s100 C?QbgG_7GL<SXXTDFXfGS2
+R7
+32
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder_tb.vhd|
+Z38 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/half_adder_tb.vhd|
+!i113 1
+R12
+R13
+Ahalf_adder_tb_arch
+R2
+R3
+DEx4 work 13 half_adder_tb 0 22 F`Q3EiS?84R1R2^8Zl>>J1
+l16
+L7
+V0gO9YRciBfDRo:CzFH=`_0
+!s100 @7O6LN]d88B<zV4XcFAjK0
+R7
+32
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+En_bit_add_sub
+Z39 w1728505406
+R2
+R3
+R4
+Z40 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub.vhd
+Z41 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub.vhd
+l0
+L4
+VNe?3zF_Z06?W;TG9WC[^91
+!s100 5^ZC>K?k<;5mS4>iJ]hMl3
+R7
+32
+R8
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub.vhd|
+Z43 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub.vhd|
+!i113 1
+R12
+R13
+An_bit_add_sub_arch
+R2
+R3
+DEx4 work 13 n_bit_add_sub 0 22 Ne?3zF_Z06?W;TG9WC[^91
+l29
+L16
+VG8j0Zzf<jmUB2ko7zi5Pe2
+!s100 z:M<do]HhiPaA?UfIMSgJ1
+R7
+32
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+En_bit_add_sub_tb
+Z44 w1728505410
+R2
+R3
+R4
+Z45 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub_tb.vhd
+Z46 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub_tb.vhd
+l0
+L4
+V;CMbAc]F[gH919A0U6Fal3
+!s100 3Y0EimTmzLX`4>6e3Qagj2
+R7
+32
+R8
+!i10b 1
+R9
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub_tb.vhd|
+Z48 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_add_sub_tb.vhd|
+!i113 1
+R12
+R13
+An_bit_add_sub_tb_arch
+R2
+R3
+DEx4 work 16 n_bit_add_sub_tb 0 22 ;CMbAc]F[gH919A0U6Fal3
+l23
+L7
+V;;_U4:D0>5;>dJif]>Yi90
+!s100 h>@SF55:S[9PZX;L4?ccg2
+R7
+32
+R8
+!i10b 1
+R9
+R47
+R48
+!i113 1
+R12
+R13
+En_bit_adder
+Z49 w1728505398
+R2
+R3
+R4
+Z50 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder.vhd
+Z51 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder.vhd
+l0
+L4
+V4Xb0nA>J3TdPghc<1F1ak1
+!s100 PdBc_obS??5Bj63RbGYlS1
+R7
+32
+R8
+!i10b 1
+R9
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder.vhd|
+Z53 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder.vhd|
+!i113 1
+R12
+R13
+An_bit_adder_arch
+R2
+R3
+DEx4 work 11 n_bit_adder 0 22 4Xb0nA>J3TdPghc<1F1ak1
+l24
+L16
+VD_<08DOV^2j2meGg4ZBei2
+!s100 :MBQLl:C0nQGGgR5hTOCE1
+R7
+32
+R8
+!i10b 1
+R9
+R52
+R53
+!i113 1
+R12
+R13
+En_bit_adder_tb
+Z54 w1728505401
+R2
+R3
+R4
+Z55 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder_tb.vhd
+Z56 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder_tb.vhd
+l0
+L4
+V>M_E9f^k_3HU>B`:[gYe^1
+!s100 Vl=HWMbeR:1P;185bbe9K3
+R7
+32
+R8
+!i10b 1
+R9
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder_tb.vhd|
+Z58 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/n_bit_adder_tb.vhd|
+!i113 1
+R12
+R13
+An_bit_adder_tb_arch
+R2
+R3
+DEx4 work 14 n_bit_adder_tb 0 22 >M_E9f^k_3HU>B`:[gYe^1
+l23
+L7
+V5?Vz<CNlc>O7@]dU_c4f`3
+!s100 F^1DWbz`DhMPcl:HMYNRD3
+R7
+32
+R8
+!i10b 1
+R9
+R57
+R58
+!i113 1
+R12
+R13
+Epart_a
+Z59 w1728505303
+R2
+R3
+R4
+Z60 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a.vhd
+Z61 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a.vhd
+l0
+L4
+V_mfS`A0KYUnAF534:IX?l3
+!s100 lZIJVbPBn`EB:L0]Oa[4@3
+R7
+32
+R8
+!i10b 1
+R9
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a.vhd|
+Z63 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a.vhd|
+!i113 1
+R12
+R13
+Apart_a_arch
+R2
+R3
+DEx4 work 6 part_a 0 22 _mfS`A0KYUnAF534:IX?l3
+l31
+L17
+V5^CViB]JOO0m68VX<>Hg@3
+!s100 L_C]@CYRYFF2e_imzMQT81
+R7
+32
+R8
+!i10b 1
+R9
+R62
+R63
+!i113 1
+R12
+R13
+Epart_a_tb
+Z64 w1728505394
+R2
+R3
+R4
+Z65 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a_tb.vhd
+Z66 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a_tb.vhd
+l0
+L4
+VJ9:YPCSDoSMQC;T166n?Z3
+!s100 X?h[JOYHG^J6naBIX`0B22
+R7
+32
+R8
+!i10b 1
+R9
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a_tb.vhd|
+Z68 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_a_tb.vhd|
+!i113 1
+R12
+R13
+Apart_a_tb_arch
+R2
+R3
+Z69 DEx4 work 9 part_a_tb 0 22 J9:YPCSDoSMQC;T166n?Z3
+l23
+L7
+VCLPGAYibWaeRlRI3bn0Pl3
+!s100 Gf9c5GjO336d?=zc`>n]_1
+R7
+32
+R8
+!i10b 1
+R9
+R67
+R68
+!i113 1
+R12
+R13
+Epart_b
+Z70 w1728505365
+R2
+R3
+R4
+Z71 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b.vhd
+Z72 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b.vhd
+l0
+L4
+V41<[JX^KMm:Mbe85?>2OQ0
+!s100 3XV@XUkzRJ@_Ano`Omjgn1
+R7
+32
+Z73 !s110 1728505436
+!i10b 1
+Z74 !s108 1728505436.000000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b.vhd|
+Z76 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b.vhd|
+!i113 1
+R12
+R13
+Apart_b_arch
+R2
+R3
+DEx4 work 6 part_b 0 22 41<[JX^KMm:Mbe85?>2OQ0
+l19
+L17
+VNMB]jXLMAKHh>WA:<k:BB2
+!s100 @:OYbSnazQS;KiF^VFzeE2
+R7
+32
+R73
+!i10b 1
+R74
+R75
+R76
+!i113 1
+R12
+R13
+Epart_b_tb
+Z77 w1728505361
+R2
+R3
+R4
+Z78 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b_tb.vhd
+Z79 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b_tb.vhd
+l0
+L4
+V?^TM6oml2hSV05GF9Pfkb0
+!s100 CXZ^aeGMJRlPORB?S6J4W0
+R7
+32
+R73
+!i10b 1
+R74
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b_tb.vhd|
+Z81 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_b_tb.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R2
+R3
+DEx4 work 9 part_b_tb 0 22 ?^TM6oml2hSV05GF9Pfkb0
+l21
+L7
+VGCED4MKi`Xk?iIK<9f7E23
+!s100 Tza;Sg2cmzc0HcDlc_2G`3
+R7
+32
+R73
+!i10b 1
+R74
+R80
+R81
+!i113 1
+R12
+R13
+Epart_c
+Z82 w1728505373
+R2
+R3
+R4
+Z83 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c.vhd
+Z84 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c.vhd
+l0
+L4
+VWK`mF_UgjYbb6DI0cCb?`0
+!s100 1MZJdZQn_>eNdOHC@nM`83
+R7
+32
+R73
+!i10b 1
+R74
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c.vhd|
+Z86 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c.vhd|
+!i113 1
+R12
+R13
+Apart_c_arch
+R2
+R3
+DEx4 work 6 part_c 0 22 WK`mF_UgjYbb6DI0cCb?`0
+l19
+L16
+VbRL@c881eDgN8P8;MHLCC1
+!s100 k?4e2l=Z[J3aDPnh5ccQj3
+R7
+32
+R73
+!i10b 1
+R74
+R85
+R86
+!i113 1
+R12
+R13
+Epart_c_tb
+Z87 w1728505370
+R2
+R3
+R4
+Z88 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c_tb.vhd
+Z89 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c_tb.vhd
+l0
+L4
+VZh0<YVZ^UaGD8NUXf?cJ[3
+!s100 MzMb3QkPBHh=C;KEL^Q^;2
+R7
+32
+R8
+!i10b 1
+R74
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c_tb.vhd|
+Z91 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_c_tb.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R2
+R3
+DEx4 work 9 part_c_tb 0 22 Zh0<YVZ^UaGD8NUXf?cJ[3
+l22
+L7
+VhVnW@;575J>0m`=O>9kGi3
+!s100 O_HT1kAobc[4`2B^0e;?;2
+R7
+32
+R8
+!i10b 1
+R74
+R90
+R91
+!i113 1
+R12
+R13
+Epart_d
+Z92 w1728505380
+R2
+R3
+R4
+Z93 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d.vhd
+Z94 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d.vhd
+l0
+L4
+VBdUGVm0QMZ<;N2lI7@Jz=2
+!s100 7@:KB^KJRdf9G60@J_mcT1
+R7
+32
+R8
+!i10b 1
+R9
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d.vhd|
+Z96 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d.vhd|
+!i113 1
+R12
+R13
+Apart_d_arch
+R2
+R3
+DEx4 work 6 part_d 0 22 BdUGVm0QMZ<;N2lI7@Jz=2
+l19
+L16
+V@0igzEPAbnkb4G^@8@OO13
+!s100 z_Wi>aEjNKJWPzAiCA]050
+R7
+32
+R8
+!i10b 1
+R9
+R95
+R96
+!i113 1
+R12
+R13
+Epart_d_tb
+Z97 w1728505377
+R2
+R3
+R4
+Z98 8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d_tb.vhd
+Z99 FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d_tb.vhd
+l0
+L4
+Va<0f]z_V>;13UF]AJ;bkQ2
+!s100 V3@[hJhKSokD]`44A<od81
+R7
+32
+R8
+!i10b 1
+R9
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d_tb.vhd|
+Z101 !s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/part_d_tb.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R2
+R3
+DEx4 work 9 part_d_tb 0 22 a<0f]z_V>;13UF]AJ;bkQ2
+l22
+L7
+VfZ<?1MRF^fgTn6aQj_E2e1
+!s100 DgdK2;aWl?_iOj^la[K]L0
+R7
+32
+R8
+!i10b 1
+R9
+R100
+R101
+!i113 1
+R12
+R13
+Pparts_pkg
+R2
+R3
+w1728505352
+R4
+8C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/parts_pkg.vhd
+FC:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/parts_pkg.vhd
+l0
+L4
+VDAa[XI6`ZYk==K_:KA75E3
+!s100 =<1F6i<?8XJ`L;Y^Rk9fG1
+R7
+32
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/parts_pkg.vhd|
+!s107 C:/Users/midoa/Code/3rd Year/First Term/ARC/Labs/Lab 2/parts_pkg.vhd|
+!i113 1
+R12
+R13
